@@ -4021,7 +4021,7 @@ style.textContent = `
 /* Media Queries for Mobile Devices */
 @media (max-width: 480px) {
   .job-item {
-    width: 230px;
+    width: 240px;
     padding: 12px; /* Adjust padding for smaller screens */
     border-radius: 12px; /* Optional: Remove border-radius for full-width look */
     margin-bottom: 12px; /* Adjust margin for better spacing */
